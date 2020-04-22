@@ -1,0 +1,325 @@
+22 Apr 11:19:09 - [info] 
+
+Welcome to Node-RED
+===================
+
+22 Apr 11:19:09 - [info] Node-RED version: v1.0.5
+22 Apr 11:19:09 - [info] Node.js  version: v10.20.1
+22 Apr 11:19:09 - [info] Linux 4.19.0-8-amd64 x64 LE
+22 Apr 11:19:09 - [info] 
+
+Welcome to Node-RED
+===================
+
+22 Apr 11:19:09 - [info] Node-RED version: v1.0.5
+22 Apr 11:19:09 - [info] Node.js  version: v10.20.1
+22 Apr 11:19:09 - [info] Linux 4.19.0-8-amd64 x64 LE
+22 Apr 11:19:09 - [info] 
+
+Welcome to Node-RED
+===================
+
+22 Apr 11:19:09 - [info] 
+
+Welcome to Node-RED
+===================
+
+22 Apr 11:19:09 - [info] Node-RED version: v1.0.5
+22 Apr 11:19:09 - [info] Node.js  version: v10.20.1
+22 Apr 11:19:09 - [info] Linux 4.19.0-8-amd64 x64 LE
+22 Apr 11:19:09 - [info] Node-RED version: v1.0.5
+22 Apr 11:19:09 - [info] Node.js  version: v10.20.1
+22 Apr 11:19:09 - [info] Linux 4.19.0-8-amd64 x64 LE
+22 Apr 11:19:09 - [info] 
+
+Welcome to Node-RED
+===================
+
+22 Apr 11:19:09 - [info] Node-RED version: v1.0.5
+22 Apr 11:19:09 - [info] Node.js  version: v10.20.1
+22 Apr 11:19:09 - [info] Linux 4.19.0-8-amd64 x64 LE
+22 Apr 11:19:13 - [info] Loading palette nodes
+22 Apr 11:19:13 - [info] Loading palette nodes
+22 Apr 11:19:13 - [info] Loading palette nodes
+22 Apr 11:19:13 - [info] Loading palette nodes
+22 Apr 11:19:13 - [info] Loading palette nodes
+22 Apr 11:19:23 - [info] Settings file  : /home/devel1/fakesensors/sensor3/settings.js
+22 Apr 11:19:23 - [info] Settings file  : /home/devel1/fakesensors/sensor5/settings.js
+22 Apr 11:19:23 - [info] Context store  : 'default' [module=memory]
+22 Apr 11:19:23 - [info] User directory : /home/devel1/fakesensors/sensor5
+22 Apr 11:19:23 - [warn] Projects disabled : editorTheme.projects.enabled=false
+22 Apr 11:19:23 - [info] Flows file     : /home/devel1/fakesensors/sensor5/flows.json
+22 Apr 11:19:23 - [info] Context store  : 'default' [module=memory]
+22 Apr 11:19:23 - [info] Settings file  : /home/devel1/fakesensors/sensor4/settings.js
+22 Apr 11:19:23 - [info] Context store  : 'default' [module=memory]
+22 Apr 11:19:23 - [info] User directory : /home/devel1/fakesensors/sensor4
+22 Apr 11:19:23 - [warn] Projects disabled : editorTheme.projects.enabled=false
+22 Apr 11:19:23 - [info] Settings file  : /home/devel1/fakesensors/sensor2/settings.js
+22 Apr 11:19:23 - [info] Flows file     : /home/devel1/fakesensors/sensor4/flows.json
+22 Apr 11:19:23 - [info] Settings file  : /home/devel1/fakesensors/sensor1/settings.js
+22 Apr 11:19:23 - [info] Context store  : 'default' [module=memory]
+22 Apr 11:19:23 - [info] User directory : /home/devel1/fakesensors/sensor3
+22 Apr 11:19:23 - [warn] Projects disabled : editorTheme.projects.enabled=false
+22 Apr 11:19:23 - [info] Flows file     : /home/devel1/fakesensors/sensor3/flows.json
+22 Apr 11:19:23 - [info] Creating new flow file
+22 Apr 11:19:23 - [info] User directory : /home/devel1/fakesensors/sensor1
+22 Apr 11:19:23 - [warn] Projects disabled : editorTheme.projects.enabled=false
+22 Apr 11:19:23 - [info] Context store  : 'default' [module=memory]
+22 Apr 11:19:23 - [info] Flows file     : /home/devel1/fakesensors/sensor1/flows.json
+22 Apr 11:19:23 - [info] Creating new flow file
+22 Apr 11:19:23 - [info] Creating new flow file
+22 Apr 11:19:23 - [info] Creating new flow file
+22 Apr 11:19:23 - [info] User directory : /home/devel1/fakesensors/sensor2
+22 Apr 11:19:23 - [warn] Projects disabled : editorTheme.projects.enabled=false
+22 Apr 11:19:23 - [info] Flows file     : /home/devel1/fakesensors/sensor2/flows.json
+22 Apr 11:19:23 - [info] Creating new flow file
+22 Apr 11:19:23 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+22 Apr 11:19:23 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+22 Apr 11:19:23 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+22 Apr 11:19:23 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+22 Apr 11:19:23 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+22 Apr 11:19:23 - [info] Starting flows
+22 Apr 11:19:23 - [info] Started flows
+22 Apr 11:19:23 - [info] Starting flows
+22 Apr 11:19:23 - [info] Starting flows
+22 Apr 11:19:23 - [info] Started flows
+22 Apr 11:19:23 - [info] Started flows
+22 Apr 11:19:23 - [info] Starting flows
+22 Apr 11:19:23 - [info] Started flows
+22 Apr 11:19:23 - [info] Starting flows
+22 Apr 11:19:23 - [info] Started flows
+22 Apr 11:19:23 - [info] Server now running at http://127.0.0.1:51885/
+22 Apr 11:19:23 - [info] Server now running at http://127.0.0.1:51883/
+22 Apr 11:19:23 - [info] Server now running at http://127.0.0.1:51884/
+22 Apr 11:19:23 - [info] Server now running at http://127.0.0.1:51882/
+22 Apr 11:19:23 - [info] Server now running at http://127.0.0.1:51881/
+22 Apr 11:27:23 - [info] 
+
+Welcome to Node-RED
+===================
+
+22 Apr 11:27:23 - [info] Node-RED version: v1.0.5
+22 Apr 11:27:23 - [info] Node.js  version: v10.20.1
+22 Apr 11:27:23 - [info] Linux 4.19.0-8-amd64 x64 LE
+22 Apr 11:27:24 - [info] 
+
+Welcome to Node-RED
+===================
+
+22 Apr 11:27:24 - [info] Node-RED version: v1.0.5
+22 Apr 11:27:24 - [info] Node.js  version: v10.20.1
+22 Apr 11:27:24 - [info] Linux 4.19.0-8-amd64 x64 LE
+22 Apr 11:27:24 - [info] 
+
+Welcome to Node-RED
+===================
+
+22 Apr 11:27:24 - [info] Node-RED version: v1.0.5
+22 Apr 11:27:24 - [info] 
+
+Welcome to Node-RED
+===================
+
+22 Apr 11:27:24 - [info] Node-RED version: v1.0.5
+22 Apr 11:27:24 - [info] Node.js  version: v10.20.1
+22 Apr 11:27:24 - [info] Linux 4.19.0-8-amd64 x64 LE
+22 Apr 11:27:24 - [info] Node.js  version: v10.20.1
+22 Apr 11:27:24 - [info] Linux 4.19.0-8-amd64 x64 LE
+22 Apr 11:27:24 - [info] 
+
+Welcome to Node-RED
+===================
+
+22 Apr 11:27:24 - [info] Node-RED version: v1.0.5
+22 Apr 11:27:24 - [info] Node.js  version: v10.20.1
+22 Apr 11:27:24 - [info] Linux 4.19.0-8-amd64 x64 LE
+22 Apr 11:27:25 - [info] Loading palette nodes
+22 Apr 11:27:25 - [info] Loading palette nodes
+22 Apr 11:27:25 - [info] Loading palette nodes
+22 Apr 11:27:25 - [info] Loading palette nodes
+22 Apr 11:27:25 - [info] Loading palette nodes
+22 Apr 11:27:28 - [info] Settings file  : /home/devel1/fakesensors/nrbfakesensors/sensor3/settings.js
+22 Apr 11:27:28 - [info] Context store  : 'default' [module=localfilesystem]
+22 Apr 11:27:28 - [info] User directory : /home/devel1/fakesensors/nrbfakesensors/sensor3
+22 Apr 11:27:28 - [warn] Projects disabled : editorTheme.projects.enabled=false
+22 Apr 11:27:28 - [info] Flows file     : /home/devel1/fakesensors/nrbfakesensors/sensor3/flows.json
+22 Apr 11:27:28 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+22 Apr 11:27:28 - [info] Starting flows
+22 Apr 11:27:28 - [info] [inject:Scheduller] repeat = 5000
+22 Apr 11:27:28 - [info] Settings file  : /home/devel1/fakesensors/nrbfakesensors/sensor2/settings.js
+22 Apr 11:27:28 - [info] Context store  : 'default' [module=localfilesystem]
+22 Apr 11:27:28 - [info] User directory : /home/devel1/fakesensors/nrbfakesensors/sensor2
+22 Apr 11:27:28 - [warn] Projects disabled : editorTheme.projects.enabled=false
+22 Apr 11:27:28 - [info] Flows file     : /home/devel1/fakesensors/nrbfakesensors/sensor2/flows.json
+22 Apr 11:27:28 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+22 Apr 11:27:28 - [info] Starting flows
+22 Apr 11:27:28 - [info] [inject:Scheduller] repeat = 5000
+22 Apr 11:27:28 - [info] Settings file  : /home/devel1/fakesensors/nrbfakesensors/sensor1/settings.js
+22 Apr 11:27:28 - [info] Context store  : 'default' [module=localfilesystem]
+22 Apr 11:27:28 - [info] User directory : /home/devel1/fakesensors/nrbfakesensors/sensor1
+22 Apr 11:27:28 - [warn] Projects disabled : editorTheme.projects.enabled=false
+22 Apr 11:27:28 - [info] Flows file     : /home/devel1/fakesensors/nrbfakesensors/sensor1/flows.json
+22 Apr 11:27:28 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+22 Apr 11:27:28 - [info] Starting flows
+22 Apr 11:27:28 - [info] Started flows
+22 Apr 11:27:28 - [info] [inject:Scheduller] repeat = 5000
+22 Apr 11:27:29 - [info] Server now running at http://127.0.0.1:51883/
+22 Apr 11:27:29 - [info] Settings file  : /home/devel1/fakesensors/nrbfakesensors/sensor4/settings.js
+22 Apr 11:27:29 - [info] Context store  : 'default' [module=localfilesystem]
+22 Apr 11:27:29 - [info] Started flows
+22 Apr 11:27:29 - [info] User directory : /home/devel1/fakesensors/nrbfakesensors/sensor4
+22 Apr 11:27:29 - [warn] Projects disabled : editorTheme.projects.enabled=false
+22 Apr 11:27:29 - [info] Flows file     : /home/devel1/fakesensors/nrbfakesensors/sensor4/flows.json
+22 Apr 11:27:29 - [info] Server now running at http://127.0.0.1:51882/
+22 Apr 11:27:29 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+22 Apr 11:27:29 - [info] Starting flows
+22 Apr 11:27:29 - [info] Settings file  : /home/devel1/fakesensors/nrbfakesensors/sensor5/settings.js
+22 Apr 11:27:29 - [info] Context store  : 'default' [module=localfilesystem]
+22 Apr 11:27:29 - [info] [inject:Scheduller] repeat = 5000
+22 Apr 11:27:29 - [info] [mqtt-broker:Public MQTT Broker] Connected to broker: mqtt://broker.hivemq.com:1883
+22 Apr 11:27:29 - [info] User directory : /home/devel1/fakesensors/nrbfakesensors/sensor5
+22 Apr 11:27:29 - [warn] Projects disabled : editorTheme.projects.enabled=false
+22 Apr 11:27:29 - [info] Flows file     : /home/devel1/fakesensors/nrbfakesensors/sensor5/flows.json
+22 Apr 11:27:29 - [info] Started flows
+22 Apr 11:27:29 - [warn] 
+
+---------------------------------------------------------------------
+Your flow credentials file is encrypted using a system-generated key.
+
+If the system-generated key is lost for any reason, your credentials
+file will not be recoverable, you will have to delete it and re-enter
+your credentials.
+
+You should set your own key using the 'credentialSecret' option in
+your settings file. Node-RED will then re-encrypt your credentials
+file using your chosen key the next time you deploy a change.
+---------------------------------------------------------------------
+
+22 Apr 11:27:29 - [info] Starting flows
+22 Apr 11:27:29 - [info] [inject:Scheduller] repeat = 5000
+22 Apr 11:27:29 - [info] [mqtt-broker:Public MQTT Broker] Connected to broker: mqtt://broker.hivemq.com:1883
+22 Apr 11:27:29 - [info] Server now running at http://127.0.0.1:51881/
+22 Apr 11:27:29 - [info] Started flows
+22 Apr 11:27:29 - [info] Started flows
+22 Apr 11:27:29 - [info] [mqtt-broker:Public MQTT Broker] Connected to broker: mqtt://broker.hivemq.com:1883
+22 Apr 11:27:29 - [info] Server now running at http://127.0.0.1:51884/
+22 Apr 11:27:29 - [info] Server now running at http://127.0.0.1:51885/
+22 Apr 11:27:29 - [info] [mqtt-broker:Public MQTT Broker] Connected to broker: mqtt://broker.hivemq.com:1883
+22 Apr 11:27:29 - [info] [mqtt-broker:Public MQTT Broker] Connected to broker: mqtt://broker.hivemq.com:1883
