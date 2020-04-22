@@ -1,0 +1,37 @@
+{
+    "sensorName": "sensor01",
+    "mqttTopic": "tchiot/sensor01/sensordata",
+    "mqttClient": "pmf58sss01",
+    "mqttQoS": 0,
+    "mqttRetain": false,
+    "sensorData": [
+        {
+            "varName": "Temperatura",
+            "varMeasureUnit": "ºC",
+            "varMinVal": 18.0,
+            "varMaxVal": 30.0,
+            "varRandomInterval": 0.5
+        },
+        {
+            "varName": "HumedadRelativa",
+            "varMeasureUnit": "%",
+            "varMinVal": 40.0,
+            "varMaxVal": 100.0,
+            "varRandomInterval": 2
+        },
+        {
+            "varName": "PresionAtmosferica",
+            "varMeasureUnit": "hPa",
+            "varMinVal": 900.0,
+            "varMaxVal": 1100.0,
+            "varRandomInterval": 5
+        },
+        {
+            "varName": "RuidoAmbiental",
+            "varMeasureUnit": "dB",
+            "varMinVal": 25.0,
+            "varMaxVal": 90.0,
+            "varRandomInterval": 0.8
+        }
+    ]
+}
